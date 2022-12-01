@@ -2,11 +2,9 @@
 
 **Automação com ESP32 e programação Arduino** 
 
-Projeto do Vídeo Q0958 Série **_Matatona Maker_** powered by **_Petrobras_**
+Projeto do Vídeo Q0958 Série **_Maratona Maker_** powered by **_Petrobras_**
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/PXe9UJ0cJWQ)
-
-<img src="https://i9.ytimg.com/vi/PXe9UJ0cJWQ/maxresdefault.jpg?v=6357eb7f&sqp=CLSt-psG&rs=AOn4CLA0k765pX0OyDpRtPQ7wkLEc7VidA" width="900px" />
 
 
 - Confira esse e outros projetos de Esp32 assistindo a Playlist [(Clique Aqui)](https://youtube.com/playlist?list=PL7CjOZ3q8fMdgvaq988L97y05Gb219fLd)
@@ -18,10 +16,10 @@ Projeto do Vídeo Q0958 Série **_Matatona Maker_** powered by **_Petrobras_**
 
 **Conheça nossas Redes Sociais:**
 
-<img src="https://img.icons8.com/color/50/youtube-play.png" width="20px" /> [YouTube](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  ](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
 
-<img src="https://img.icons8.com/color/50/instagram-new--v1.png" width="20px" /> [Instagram](https://www.instagram.com/brincandocomideias/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/brincandocomideias/)
 
-<img src="https://img.icons8.com/color/50/facebook-circled--v1.png" width="20px" /> [Facebook](https://www.facebook.com/paginaBrincandoComIdeias/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/paginaBrincandoComIdeias/)
 
-<img src="https://img.icons8.com/color/50/domain--v1.png" width="20px" /> [Site OFicial](https://www.brincandocomideias.com/)
+[![Siteoficial](https://img.shields.io/badge/🌐-SITE%20OFICIAL-brightgreen)](https://www.brincandocomideias.com/)
